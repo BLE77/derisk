@@ -6,7 +6,7 @@
 
 ---
 
-Sell all SPL tokens in your Solana wallet for SOL via Jupiter aggregator.
+Sell all SPL tokens in your Solana wallet for SOL.
 
 ## Setup
 
